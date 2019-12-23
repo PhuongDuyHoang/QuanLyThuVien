@@ -179,6 +179,19 @@ Public Class ucChoMuonSach
         ThemSachMuon()
     End Sub
 
+    
+
+    Private Sub btnLuuVaxuat_Click(sender As Object, e As EventArgs) Handles btnLuuVaxuat.Click
+        If dgDSCanMuon.Rows.Count = 0 Then
+            MessageBox.Show("Danh sách sách cần mượn trống!", "Lỗi", MessageBoxButtons.OK)
+            Return
+        End If
+
+        LuuPhieuMuon()
+        XuatPhieuMuon()
+        Back(sender)
+    End Sub
+
     Private Sub tbThemMaSach_KeyDown(sender As Object, e As KeyEventArgs) Handles tbThemMaSach.KeyDown
         If e.KeyCode = Keys.Enter Then
             ThemSachMuon()
@@ -192,17 +205,6 @@ Public Class ucChoMuonSach
         End If
 
         LuuPhieuMuon()
-        Back(sender)
-    End Sub
-
-    Private Sub btnLuuVaxuat_Click(sender As Object, e As EventArgs) Handles btnLuuVaxuat.Click
-        If dgDSCanMuon.Rows.Count = 0 Then
-            MessageBox.Show("Danh sách sách cần mượn trống!", "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        LuuPhieuMuon()
-        XuatPhieuMuon()
         Back(sender)
     End Sub
 

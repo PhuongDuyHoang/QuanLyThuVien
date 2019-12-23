@@ -211,11 +211,7 @@ Public Class ucBaoCaoSachMuon
 
             ' header on datagrid
             Dim pdfcell As PdfPCell = New PdfPCell
-            For i As Integer = 0 To dgThongKe.Columns.Count - 1
-                pdfcell = New PdfPCell(New Phrase(New Chunk(dgThongKe.Columns(i).HeaderText, fntHead2)))
-                pdfcell.HorizontalAlignment = PdfPCell.ALIGN_LEFT
-                pdftable.AddCell(pdfcell)
-            Next
+           
 
 
             ''''
@@ -226,6 +222,12 @@ Public Class ucBaoCaoSachMuon
                     pdftable.HorizontalAlignment = PdfPCell.ALIGN_LEFT
                     pdftable.AddCell(pdfcell)
                 Next
+            Next
+
+             For i As Integer = 0 To dgThongKe.Columns.Count - 1
+                pdfcell = New PdfPCell(New Phrase(New Chunk(dgThongKe.Columns(i).HeaderText, fntHead2)))
+                pdfcell.HorizontalAlignment = PdfPCell.ALIGN_LEFT
+                pdftable.AddCell(pdfcell)
             Next
 
             ''''

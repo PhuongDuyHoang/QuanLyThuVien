@@ -69,7 +69,35 @@ Public Class ucChoMuonSach
         lbTroVe.ForeColor = Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
     End Sub
 
-    
+    Private Sub tbMaDocGia_KeyDown(sender As Object, e As KeyEventArgs) Handles tbMaDocGia.KeyDown
+        If e.KeyCode = Keys.Enter Then
+            Dim result = nguoidungBus.getByMaNguoiDung(tbMaDocGia.Text, docgia)
+            If result.FlagResult = False Then
+                MessageBox.Show("Lấy thông tin độc giả không thành công!", "Lỗi", MessageBoxButtons.OK)
+                Return
+            End If
+
+            lbHoTenDocGia.Text = docgia.HoTen
+            LayThongTinMuonSach()
+            KiemTraDieuKienMuonSach()
+        End If
+    End Sub
+
+    Private Sub LayThongTinMuonSach()
+        If docgia.MaNguoiDung Is Nothing Then
+            Return
+        End If
+
+        phieumuonBus.getAll_SachDangMuon_ByMaDocGia(docgia.MaNguoiDung, listMaSachDangMuon, listTenSachDangMuon, listNgayMuon)
+        lbTong.Text = listMaSachDangMuon.Count.ToString
+
+        For i As Integer = 0 To listMaSachDangMuon.Count - 1
+            Dim s As String()
+            s = New String() {listMaSachDangMuon.ElementAt(i), listTenSachDangMuon.ElementAt(i), listNgayMuon(i).ToString("dd/MM/yyyy")}
+            dgDanhSach.Rows.Add(s)
+        Next
+
+    End Sub
 
     Private Sub KiemTraDieuKienMuonSach()
         If listMaSachDangMuon.Count = thamso.SoSachMuonToiDa Then
@@ -176,35 +204,6 @@ Public Class ucChoMuonSach
         LuuPhieuMuon()
         XuatPhieuMuon()
         Back(sender)
-    End Sub
-    Private Sub tbMaDocGia_KeyDown(sender As Object, e As KeyEventArgs) Handles tbMaDocGia.KeyDown
-        If e.KeyCode = Keys.Enter Then
-            Dim result = nguoidungBus.getByMaNguoiDung(tbMaDocGia.Text, docgia)
-            If result.FlagResult = False Then
-                MessageBox.Show("Lấy thông tin độc giả không thành công!", "Lỗi", MessageBoxButtons.OK)
-                Return
-            End If
-
-            lbHoTenDocGia.Text = docgia.HoTen
-            LayThongTinMuonSach()
-            KiemTraDieuKienMuonSach()
-        End If
-    End Sub
-
-    Private Sub LayThongTinMuonSach()
-        If docgia.MaNguoiDung Is Nothing Then
-            Return
-        End If
-
-        phieumuonBus.getAll_SachDangMuon_ByMaDocGia(docgia.MaNguoiDung, listMaSachDangMuon, listTenSachDangMuon, listNgayMuon)
-        lbTong.Text = listMaSachDangMuon.Count.ToString
-
-        For i As Integer = 0 To listMaSachDangMuon.Count - 1
-            Dim s As String()
-            s = New String() {listMaSachDangMuon.ElementAt(i), listTenSachDangMuon.ElementAt(i), listNgayMuon(i).ToString("dd/MM/yyyy")}
-            dgDanhSach.Rows.Add(s)
-        Next
-
     End Sub
 
     Private Sub LuuPhieuMuon()

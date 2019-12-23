@@ -12,7 +12,38 @@
         Dim result As New Result
         Dim ctpmBus As New ChiTietPhieuMuonBUS
 
-        
+     Private Sub btnThongKe_Click(sender As Object, e As EventArgs) Handles btnThongKe.Click
+
+            result = kiemtrahople()
+            If result.FlagResult = False Then
+                Return
+            End If
+
+            Dim list As New List(Of TheLoaiDTO)
+            Dim listsoluotmuon As New List(Of Integer)
+
+            If month > 0 And year > 0 Then
+                result = ctpmBus.baocao_TheoTheLoai_ThangNam(month, year, list, listsoluotmuon)
+            ElseIf month > 0 Then
+                result = ctpmBus.baocao_TheoTheLoai_Thang(month, list, listsoluotmuon)
+            ElseIf year > 0 Then
+                result = ctpmBus.baocao_TheoTheLoai_Nam(year, list, listsoluotmuon)
+            Else
+                result = ctpmBus.baocao_TheoTheLoai(list, listsoluotmuon)
+            End If
+
+            If result.FlagResult = False Then
+                MessageBox.Show("Lỗi truy xuất dữ liệu. Lập thống kê thất bại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                System.Console.WriteLine(result.SystemMessage)
+                tbThang.Focus()
+                Return
+            End If
+
+            showresult(list, listsoluotmuon)
+
+
+        End Sub
+   
         Private Function kiemtrahople() As Result
             month = 0
             year = 0

@@ -1,0 +1,14 @@
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\bin\Release\QLTVDTO.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\bin\Release\QLTVDTO.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\bin\Release\QLTVDTO.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\bin\Release\Utility.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\bin\Release\Utility.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\bin\Release\Utility.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.vbprojAssemblyReference.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.Resources.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.vbproj.GenerateResource.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.vbproj.CoreCompileInputs.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.vbproj.CopyComplete
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVDTO\obj\Release\QLTVDTO.pdb

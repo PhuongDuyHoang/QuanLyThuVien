@@ -1,0 +1,50 @@
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\obj\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\Utility\obj\Debug\Utility.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\Utility\obj\Debug\Utility.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\obj\Debug\Utility.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\bin\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\bin\Debug\Utility.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\obj\Debug\Utility.Resources.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\obj\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\obj\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\Utility\obj\Debug\Utility.pdb

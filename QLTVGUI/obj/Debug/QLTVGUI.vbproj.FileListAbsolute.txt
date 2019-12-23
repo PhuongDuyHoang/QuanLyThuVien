@@ -1,0 +1,370 @@
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojResolveAssemblyReference.cache
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.Cache
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucLapTheDocGia.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+C:\Users\CatRom\Desktop\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojResolveAssemblyReference.cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucLapTheDocGia.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.Cache
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThayDoiQuyDinh.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+C:\Users\CatRom\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucLapTheDocGia.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThayDoiQuyDinh.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.Cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.dll
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.xml
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.splashScreen.resources
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojAssemblyReference.cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Tung\Source\Repos\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CopyComplete
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojAssemblyReference.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.splashScreen.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucLapTheDocGia.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThayDoiQuyDinh.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CopyComplete
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucDocGia.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucCapNhatThongTin.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTimDocGia.resources
+C:\Users\Tung\Source\Repos\MHH\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThongTinDocGia.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.splashScreen.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucCapNhatThongTin.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThongTinDocGia.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucDocGia.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucLapTheDocGia.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThayDoiQuyDinh.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTimDocGia.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CopyComplete
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.splashScreen.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucCapNhatThongTin.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThongTinDocGia.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucDocGia.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucLapTheDocGia.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThayDoiQuyDinh.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTimDocGia.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CopyComplete
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+C:\Users\Admin\Desktop\QLTV\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.splashScreen.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucDocGia.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CopyComplete
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThongTinNguoiDung.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThemNguoiDung.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuNguoiDung.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChinhSuaNguoiDung.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaCungCap.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucPhieuNhap.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucQuanLySach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaThanhLy.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaXuatBan.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTheLoaiSach.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTacGia.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNgonNgu.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTinhTrang.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuu.resources
+C:\Users\Admin\Desktop\PTTK\QuanLyThuVien\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucQuyDinh.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojAssemblyReference.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.splashScreen.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChinhSuaNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNgonNgu.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaCungCap.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaThanhLy.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaXuatBan.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucPhieuNhap.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucQuanLySach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucQuyDinh.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTacGia.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTheLoaiSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTinhTrang.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuu.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucDocGia.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThemNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThongTinNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CoreCompileInputs.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CopyComplete
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe.config
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.exe
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVGUI.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.dll
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVBus.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDTO.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\Utility.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\itextsharp.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.pdb
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\bin\Debug\QLTVDAL.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbprojAssemblyReference.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.frmHome.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.Resources.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.splashScreen.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChinhSuaNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNgonNgu.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaCungCap.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaThanhLy.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhaXuatBan.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucPhieuNhap.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucQuanLySach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucQuyDinh.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTacGia.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTheLoaiSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTinhTrang.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuu.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCao.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachMuon.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucBaoCaoSachTre.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucChoMuonSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucDocGia.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucNhanTraSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThemNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThongTinNguoiDung.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucThuVien.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTiepNhanSachMoi.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.ucTraCuuSach.resources
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.GenerateResource.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CoreCompileInputs.cache
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.vbproj.CopyComplete
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.exe
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.xml
+D:\DaiHoc\Phương pháp phát triền phần mềm hướng đối tượng\du phong\qltv_phuong\QuanLyThuVien-master\QuanLyThuVien-master\QuanLyThuVien\QLTVGUI\obj\Debug\QLTVGUI.pdb

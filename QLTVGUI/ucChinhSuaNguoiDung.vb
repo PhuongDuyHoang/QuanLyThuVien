@@ -67,6 +67,19 @@ Public Class ucChinhSuaNguoiDung
         parent3.Controls.Add(thongtin)
     End Sub
 
+    
+
+    Private Sub lbDoiMatKhau_Click(sender As Object, e As EventArgs) Handles lbDoiMatKhau.Click
+        If gbDangNhap.Height = 134 Then
+            gbDangNhap.Height = 373
+        Else
+            gbDangNhap.Height = 134
+        End If
+
+        tbMatKhau.Clear()
+        tbMatKhauMoi.Clear()
+        tbNhapLaiMatKhauMoi.Clear()
+    End Sub
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
         Dim res
         Dim userLogin As New DangNhapDTO
@@ -114,17 +127,5 @@ Public Class ucChinhSuaNguoiDung
 
         MessageBox.Show("Cập nhật thành công!" + res.SystemMessage, "Thông tin", MessageBoxButtons.OK)
         Back(sender)
-    End Sub
-
-    Private Sub lbDoiMatKhau_Click(sender As Object, e As EventArgs) Handles lbDoiMatKhau.Click
-        If gbDangNhap.Height = 134 Then
-            gbDangNhap.Height = 373
-        Else
-            gbDangNhap.Height = 134
-        End If
-
-        tbMatKhau.Clear()
-        tbMatKhauMoi.Clear()
-        tbNhapLaiMatKhauMoi.Clear()
     End Sub
 End Class

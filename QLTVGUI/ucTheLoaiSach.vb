@@ -58,7 +58,27 @@ Public Class ucTheLoaiSach
         lbTroVe.ForeColor = Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
     End Sub
 
-   
+    Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
+        If tbTen.Text = "" Then
+            MessageBox.Show("Nhập tên thể loại!", "Lỗi", MessageBoxButtons.OK)
+            Return
+        End If
+
+        Dim theloaisach As New TheLoaiDTO
+        theloaisach.MaTheLoai = lbMaTheLoai.Text
+        theloaisach.TenTheLoai = tbTen.Text
+
+        Dim res = theloaisachBus.insert(theloaisach)
+        If res.FlagResult = False Then
+            Dim mes = "Thêm thể loại lỗi!" + "\n" + res.SystemMessage
+            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
+            Return
+        End If
+
+        MessageBox.Show("Thêm thể loại thành công!", "Thông báo", MessageBoxButtons.OK)
+        Reset()
+    End Sub
+
     Private Sub dgDanhSach_CellEndEdit(sender As Object, e As DataGridViewCellEventArgs) Handles dgDanhSach.CellEndEdit
         Dim newValue = dgDanhSach.Item(1, e.RowIndex).Value
 

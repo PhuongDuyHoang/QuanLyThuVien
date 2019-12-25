@@ -14,57 +14,7 @@
 
      Private Sub btnThongKe_Click(sender As Object, e As EventArgs) Handles btnThongKe.Click
 
-            result = kiemtrahople()
-            If result.FlagResult = False Then
-                Return
-            End If
-
-            Dim list As New List(Of TheLoaiDTO)
-            Dim listsoluotmuon As New List(Of Integer)
-
-            If month > 0 And year > 0 Then
-                result = ctpmBus.baocao_TheoTheLoai_ThangNam(month, year, list, listsoluotmuon)
-            ElseIf month > 0 Then
-                result = ctpmBus.baocao_TheoTheLoai_Thang(month, list, listsoluotmuon)
-            ElseIf year > 0 Then
-                result = ctpmBus.baocao_TheoTheLoai_Nam(year, list, listsoluotmuon)
-            Else
-                result = ctpmBus.baocao_TheoTheLoai(list, listsoluotmuon)
-            End If
-
-            If result.FlagResult = False Then
-                MessageBox.Show("Lỗi truy xuất dữ liệu. Lập thống kê thất bại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-                System.Console.WriteLine(result.SystemMessage)
-                tbThang.Focus()
-                Return
-            End If
-
-            showresult(list, listsoluotmuon)
-
-
-        End Sub
-   
-        Private Function kiemtrahople() As Result
-            month = 0
-            year = 0
-
-            If tbThang.Text.Length > 0 Then
-                month = Convert.ToDecimal(tbThang.Text)
-                If ((month < 1 Or month > 12)) Then
-                    MessageBox.Show("Tháng không hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-                    Return New Result(False)
-                End If
-            End If
-
-            If tbNam.Text.Length > 0 Then
-                year = Convert.ToDecimal(tbNam.Text)
-                If ((year < 2000 Or year > 2099)) Then
-                    MessageBox.Show("Năm không hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-                    Return New Result(False)
-                End If
-            End If
-            Return New Result(True)
-
+           
         End Function
 
         Private Function showresult(listten As List(Of TheLoaiDTO), listsoluotmuon As List(Of Integer))
@@ -106,18 +56,7 @@
         End Sub
 
         Private Sub btnThoat_Click(sender As Object, e As EventArgs) Handles btnThoat.Click
-            Dim parent As ucBaoCaoSachMuon
-            parent = sender.Parent
-            Dim grandpar = New ucBaoCao
-            grandpar = parent.Parent
-            Dim grgrpar = New FlowLayoutPanel
-            grgrpar = grandpar.Parent
-            grgrpar.Controls.Clear()
-            Dim grgrgrpar = New frmHome
-            grgrgrpar = grgrpar.Parent
-            grgrgrpar.btnNguoiDung.selected = False
-            Dim ucBaoCao As New ucBaoCao
-            grgrpar.Controls.Add(ucBaoCao)
+           
         End Sub
 
         Private Sub ucBaoCaoSachMuon_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -127,128 +66,6 @@
         End Sub
 
         Private Sub btnXuatBaoCao_Click(sender As Object, e As EventArgs) Handles btnXuatBaoCao.Click
-            Try
-                Dim path As String = "\baocaosachmuon.pdf"
-                Dim myFont As String = "C:\Windows\Fonts\Calibri.ttf"
-
-                ' open folder browser
-                Using fbd As New FolderBrowserDialog()
-                    Dim rs As New DialogResult()
-                    rs = fbd.ShowDialog
-
-                    If rs = DialogResult.OK And Not String.IsNullOrWhiteSpace(fbd.SelectedPath) Then
-                        path = fbd.SelectedPath.ToString() + path
-                    Else
-                        Return
-                    End If
-                End Using
-
-
-                ' dinh dang file
-                Dim doc As Document = New iTextSharp.text.Document(PageSize.LETTER, 30, 30, 50, 50)
-                Dim wrtr As PdfWriter = PdfWriter.GetInstance(doc, New FileStream(path, FileMode.Create))
-
-                ' mo file
-                doc.Open()
-                doc.NewPage()
-
-                ' font chu, mau sac
-                Dim bfR As BaseFont = BaseFont.CreateFont(myFont, BaseFont.IDENTITY_H, BaseFont.EMBEDDED)
-                Dim clrBlack As BaseColor = New BaseColor(0, 0, 0)
-
-                Dim fntTitle As iTextSharp.text.Font = New iTextSharp.text.Font(bfR, 16, iTextSharp.text.Font.BOLD, clrBlack)
-                Dim fntHead As iTextSharp.text.Font = New iTextSharp.text.Font(bfR, 12, iTextSharp.text.Font.BOLD, clrBlack)
-                Dim fntHead2 As iTextSharp.text.Font = New iTextSharp.text.Font(bfR, 12, iTextSharp.text.Font.ITALIC, clrBlack)
-                Dim fntNormal As iTextSharp.text.Font = New iTextSharp.text.Font(bfR, 12, iTextSharp.text.Font.NORMAL, clrBlack)
-
-                ' title
-                Dim title As New Paragraph(New Chunk("BÁO CÁO THỐNG KÊ TÌNH HÌNH MƯỢN SÁCH THEO THỂ LOẠI", fntTitle))
-                title.Alignment = Element.ALIGN_CENTER
-                title.SpacingAfter = 50.0F
-                doc.Add(title)
-
-                ' thong so
-                Dim s As String = Nothing
-
-                If month > 0 And year > 0 Then
-                    s = "Tháng: " + month.ToString() + "    Năm: " + year.ToString()
-                ElseIf month > 0 Then
-                    s = "Tháng: " + month.ToString()
-                ElseIf year > 0 Then
-                    s = "Năm: " + year.ToString()
-                Else
-                    s = "(Tất cả)"
-                End If
-
-                Dim thongso As New Paragraph(s, fntHead2)
-                thongso.Alignment = Element.ALIGN_CENTER
-                thongso.SpacingAfter = 20.0F
-
-                doc.Add(thongso)
-
-
-                ' datagrid
-                '' width
-                Dim ketqua As New Paragraph("Kết quả thống kê: ", fntHead)
-                ketqua.SpacingBefore = 20.0F
-                ketqua.SpacingAfter = 20.0F
-                doc.Add(ketqua)
-
-                Dim pdftable As New PdfPTable(dgThongKe.Columns.Count)
-                pdftable.TotalWidth = 400.0F
-                pdftable.LockedWidth = True
-
-                '' set width for columns
-                Dim widths(0 To dgThongKe.Columns.Count - 1) As Single
-                For i As Integer = 0 To dgThongKe.Columns.Count - 1
-                    widths(i) = 1.0F * (dgThongKe.Columns(i).Width / 600.0F)
-                Next
-
-                pdftable.SetWidths(widths)
-                pdftable.HorizontalAlignment = 0
-
-                '''''
-
-                ' header on datagrid
-                Dim pdfcell As PdfPCell = New PdfPCell
-                For i As Integer = 0 To dgThongKe.Columns.Count - 1
-                    pdfcell = New PdfPCell(New Phrase(New Chunk(dgThongKe.Columns(i).HeaderText, fntHead2)))
-                    pdfcell.HorizontalAlignment = PdfPCell.ALIGN_LEFT
-                    pdftable.AddCell(pdfcell)
-                Next
-
-
-                ''''
-                ' rows on datagrid
-                For i As Integer = 0 To dgThongKe.Rows.Count - 1
-                    For j As Integer = 0 To dgThongKe.Columns.Count - 1
-                        pdfcell = New PdfPCell(New Phrase(dgThongKe(j, i).Value.ToString(), fntNormal))
-                        pdftable.HorizontalAlignment = PdfPCell.ALIGN_LEFT
-                        pdftable.AddCell(pdfcell)
-                    Next
-                Next
-
-                ''''
-                doc.Add(pdftable)
-
-
-
-                ' ngay tao
-                Dim ngay As New Paragraph("Ngày tạo: " + Today.Day.ToString() + "/" + Today.Month.ToString() + "/" + Today.Year.ToString(), fntNormal)
-                ngay.Alignment = Element.ALIGN_LEFT
-                ngay.SpacingBefore = 50.0F
-
-                doc.Add(ngay)
-
-                ' close
-                doc.Close()
-
-                MessageBox.Show("Xuất kết quả báo cáo thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information)
-                Return
-
-            Catch ex As Exception
-                MessageBox.Show("Xuất kết quả báo cáo thất bại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-                Return
-            End Try
+            
         End Sub
     End Class

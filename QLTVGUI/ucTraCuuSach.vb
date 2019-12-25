@@ -39,77 +39,7 @@ Public Class ucTraCuuSach
     End Sub
 
     Private Sub btnTraCuu_Click(sender As Object, e As EventArgs) Handles btnTraCuu.Click
-        dgDanhSachSach.Rows.Clear()
-
-        Dim ketqua As New List(Of String)
-        Dim timkiem As New List(Of String)
-        Dim listDSTL As New List(Of DauSach_TheLoaiDTO)
-        Dim listDSTG As New List(Of DauSach_TacGiaDTO)
-
-
-        ' lay tat ca ma sach
-        result = dausachBus.selectAll_MaDauSach("%", ketqua)
-        If result.FlagResult = False Then
-            MessageBox.Show("Lấy danh sách mã đầu sách không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-        End If
-
-        ' tim kiem theo ma sach
-        timkiem.Clear()
-        If tbMaSach.Text.Length > 0 Then
-            result = dausachBus.filter_MaSach("%" + tbMaSach.Text + "%", timkiem)
-            If result.FlagResult = False Then
-                MessageBox.Show("Tìm kiếm theo mã sách không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-            Else
-                findCommon(ketqua, timkiem) ' giao 2 list
-            End If
-        End If
-
-        ' tim kiem theo ten sach
-        timkiem.Clear()
-        If tbTenSach.Text.Length > 0 Then
-            result = dausachBus.filter_TenSach("%" + tbTenSach.Text + "%", timkiem)
-            If result.FlagResult = False Then
-                MessageBox.Show("Tìm kiếm theo ten sach không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-            Else
-                findCommon(ketqua, timkiem) ' giao 2 list
-            End If
-        End If
-
-        ' tim kiem theo the loai
-        If cbTheLoai.SelectedIndex > 1 Then
-            result = dausach_theloai.selectALL_ByMaTheLoai("%" + cbTheLoai.SelectedValue.ToString() + "%", listDSTL)
-            If result.FlagResult = False Then
-                MessageBox.Show("Tìm kiếm theo thể loại không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-            Else
-                timkiem.Clear()
-                For i As Integer = 0 To listDSTL.Count - 1
-                    timkiem.Add(listDSTL.ElementAt(i).MaDauSach)
-                Next
-
-                findCommon(ketqua, timkiem)
-            End If
-        End If
-
-        ' tim kiem theo tac gia
-        If cbTacGia.SelectedIndex > 1 Then
-            result = dausach_tacgia.selectALL_ByMaTacGia("%" + cbTacGia.SelectedValue.ToString() + "%", listDSTG)
-            If result.FlagResult = False Then
-                MessageBox.Show("Tìm kiếm theo tác giả không thành công!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-            Else
-                timkiem.Clear()
-                For i As Integer = 0 To listDSTG.Count - 1
-                    timkiem.Add(listDSTG.ElementAt(i).MaDauSach)
-                Next
-
-                findCommon(ketqua, timkiem)
-            End If
-        End If
-
-        If (ketqua.Count > 0) Then
-            showResult(ketqua)
-        Else
-            MessageBox.Show("Không tìm thấy kết quả nào thoả mãn!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information)
-        End If
+        
     End Sub
 
     Private Sub ucTraCuuSach_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -131,15 +61,7 @@ Public Class ucTraCuuSach
     End Sub
 
     Private Sub btnThoat_Click(sender As Object, e As EventArgs) Handles btnThoat.Click
-        Dim parent As ucTraCuuSach
-        parent = sender.Parent
-        Dim parent2 As ucTraCuu
-        parent2 = parent.Parent
-        Dim parent3 = New FlowLayoutPanel
-        parent3 = parent2.Parent
-        Dim tracuu As New ucTraCuu
-        parent3.Controls.Clear()
-        parent3.Controls.Add(tracuu)
+       
     End Sub
 
     Private Sub showResult(ketqua As List(Of String))

@@ -72,7 +72,7 @@ Public Class ucTiepNhanSachMoi
     End Sub
 
     Private Sub btnHuy_Click(sender As Object, e As EventArgs) Handles btnHuy.Click
-        Back(sender)
+       
     End Sub
 
     Private Sub Back(sender As Object)
@@ -127,29 +127,11 @@ Public Class ucTiepNhanSachMoi
     End Sub
 
     Private Sub btnAddTacGia_Click(sender As Object, e As EventArgs) Handles btnAddTacGia.Click
-        If cbTacGia.SelectedIndex > -1 Then
-            If (listChonTacGia.Contains(cbTacGia.SelectedItem) = False) Then
-                listChonTacGia.Add(cbTacGia.SelectedItem)
-
-                If (lbDSTacGia.Text <> "") Then
-                    lbDSTacGia.Text = lbDSTacGia.Text + ", "
-                End If
-                lbDSTacGia.Text = lbDSTacGia.Text + cbTacGia.SelectedText
-            End If
-        End If
+       
     End Sub
 
     Private Sub btnAddNgonNgu_Click(sender As Object, e As EventArgs) Handles btnAddNgonNgu.Click
-        If cbNgonNgu.SelectedIndex > -1 Then
-            If (listChonNgonNgu.Contains(cbNgonNgu.SelectedItem) = False) Then
-                listChonNgonNgu.Add(cbNgonNgu.SelectedItem)
-
-                If (lbDSNgonNgu.Text <> "") Then
-                    lbDSNgonNgu.Text = lbDSNgonNgu.Text + ", "
-                End If
-                lbDSNgonNgu.Text = lbDSNgonNgu.Text + cbNgonNgu.SelectedText
-            End If
-        End If
+        
     End Sub
 
     Private Sub lbXoaTheLoai_Click(sender As Object, e As EventArgs) Handles lbXoaTheLoai.Click
@@ -186,108 +168,6 @@ Public Class ucTiepNhanSachMoi
     End Function
 
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
-        If (tbTenDauSach.Text = "" Or cbNhaXuatBan.SelectedIndex = -1 Or listChonTheLoai.Count = 0 Or
-            listChonTacGia.Count = 0 Or listChonNgonNgu.Count = 0 Or cbTinhTrang.SelectedIndex = -1) Then
-            MessageBox.Show("Nhập các trường bắt buộc!", "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        Dim result As New Result
-
-        'Them dau sach
-        Dim dausach As New DauSachDTO
-        dausach.MaDauSach = lbMaDauSach.Text
-        dausach.TenDauSach = tbTenDauSach.Text
-        dausach.TomTat = tbTomTat.Text
-        dausach.NhaXuatBan = cbNhaXuatBan.SelectedValue.ToString()
-        dausach.NamXuatBan = nudNamXuatBan.Value
-        dausach.TriGia = Convert.ToInt64(tbTriGia.Text)
-
-        result = dausachBus.insert(dausach)
-        If result.FlagResult = False Then
-            Dim mes = "Thêm đầu sách thất bại!" + "\n" + result.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        'Them dau sach-the loai
-        For i As Integer = 0 To listChonTheLoai.Count - 1
-            Dim x As New DauSach_TheLoaiDTO(lbMaDauSach.Text, listChonTheLoai.ElementAt(i).MaTheLoai)
-            result = dausach_theloaiBus.insert(x)
-            If result.FlagResult = False Then
-                Dim mes = "Thêm đầu sách - thể loại thất bại: " + listChonTheLoai.ElementAt(i).MaTheLoai + "\n" + result.SystemMessage
-                MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            End If
-        Next
-
-        'Them dau sach-tac gia
-        For i As Integer = 0 To listChonTacGia.Count - 1
-            Dim x As New DauSach_TacGiaDTO(lbMaDauSach.Text, listChonTacGia.ElementAt(i).MaTacGia)
-            result = dausach_tacgiaBus.insert(x)
-            If result.FlagResult = False Then
-                Dim mes = "Thêm đầu sách - tác giả thất bại: " + listChonTacGia.ElementAt(i).MaTacGia + "\n" + result.SystemMessage
-                MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            End If
-        Next
-
-        'Them dau sach-ngon ngu
-        For i As Integer = 0 To listChonNgonNgu.Count - 1
-            Dim x As New DauSach_NgonNguDTO(lbMaDauSach.Text, listChonNgonNgu.ElementAt(i).MaNgonNgu)
-            result = dausach_ngonnguBus.insert(x)
-            If result.FlagResult = False Then
-                Dim mes = "Thêm đầu sách - ngôn ngữ thất bại: " + listChonNgonNgu.ElementAt(i).MaNgonNgu + "\n" + result.SystemMessage
-                MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            End If
-        Next
-
-        'NOTE: Trước khi thêm chi tiết phiếu nhập, phải đảm bảo trong CSDL đã có mã phiếu nhập rồi,
-        'vì mã phiếu nhập là FK của chi tiết phiếu nhập
-        'Them phieu nhap
-        Dim phieunhap As New PhieuNhapDTO
-        result = phieunhapBus.getByMaPhieuNhap(maphieunhap, phieunhap)
-        If result.FlagResult = False Then ' Chua tao phieu nhap
-            phieunhap.MaPhieuNhap = maphieunhap
-            phieunhap.NgayNhap = Today
-            phieunhap.NguoiNhap = nguoinhap
-            phieunhap.NhaCungCap = nhacungcap
-            phieunhapBus.insert(phieunhap)
-        End If
-
-        'Them chi tiet phieu nhap
-        Dim chitietphieunhap As New ChiTietPhieuNhapDTO
-        chitietphieunhap.MaPhieuNhap = maphieunhap
-        chitietphieunhap.MaDauSach = lbMaDauSach.Text
-        chitietphieunhap.SoLuong = nudSoLuong.Value
-        chitietphieunhap.GhiChu = tbGhiChu.Text
-        chitietphieunhap.ThanhTien = ThanhTien()
-
-        result = chitietphieunhapBus.insert(chitietphieunhap)
-        If result.FlagResult = False Then
-            Dim mes = "Thêm chi tiết phiếu nhập thất bại!" + "\n" + result.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        'Them cuon sach
-        For i As Integer = 1 To nudSoLuong.Value
-            Dim cuonsach As New CuonSachDTO
-            Dim macuonsach As String
-            macuonsach = ""
-            cuonsachBus.buildMaCuonSach(macuonsach)
-
-            cuonsach.MaCuonSach = macuonsach
-            cuonsach.TinhTrang = cbTinhTrang.SelectedValue.ToString
-            cuonsach.DauSach = lbMaDauSach.Text
-            cuonsach.SoKe = nudViTriKe.Value
-
-            result = cuonsachBus.insert(cuonsach)
-            If result.FlagResult = False Then
-                Dim mes = "Thêm cuốn sách thất bại: " + macuonsach + "\n" + result.SystemMessage
-                MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            End If
-        Next
-
-        MessageBox.Show("Tiếp nhận sách thành công!", "Thông báo", MessageBoxButtons.OK)
-        BackWithData(sender)
+        
     End Sub
 End Class

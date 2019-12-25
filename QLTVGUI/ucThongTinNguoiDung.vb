@@ -39,28 +39,15 @@ Public Class ucThongTinNguoiDung
     End Sub
 
     Private Sub btnThemNguoiDung_Click(sender As Object, e As EventArgs) Handles btnThemNguoiDung.Click
-        Me.Controls.Clear()
-        Dim ucThemNguoiDung As New ucThemNguoiDung With {
-            .isLapTheDocGia = False
-        }
-        Me.Controls.Add(ucThemNguoiDung)
-        ucThemNguoiDung.BringToFront()
+       
     End Sub
 
     Private Sub btnTimKiemNguoiDung_Click(sender As Object, e As EventArgs)
-        Me.Controls.Clear()
-        Dim ucTraCuu As New ucTraCuuNguoiDung
-        Me.Controls.Add(ucTraCuu)
-        ucTraCuu.BringToFront()
+      
     End Sub
 
     Private Sub btnChinhSuaThongTin_Click(sender As Object, e As EventArgs) Handles btnChinhSuaThongTin.Click
-        Me.Controls.Clear()
-        Dim ucChinhSua As New ucChinhSuaNguoiDung With {
-            .dangnhap = dangnhap
-        }
-        Me.Controls.Add(ucChinhSua)
-        ucChinhSua.BringToFront()
+      
     End Sub
 
     Private Sub btnLichSuMuonTra_Click(sender As Object, e As EventArgs) Handles btnLichSuMuonTra.Click

@@ -62,26 +62,6 @@ Public Class ucNhaThanhLy
     End Sub
 
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
-        If tbTen.Text = "" Or tbDiaChi.Text = "" Or tbSoDienThoai.Text = "" Then
-            MessageBox.Show("Nhập đầy đủ các trường bắt buộc!", "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        Dim nhathanhly As New NhaThanhLyDTO
-        nhathanhly.MaNhaThanhLy = lbMaNhaThanhLy.Text
-        nhathanhly.TenNhaThanhLy = tbTen.Text
-        nhathanhly.DiaChi = tbDiaChi.Text
-        nhathanhly.SoDienThoai = tbSoDienThoai.Text
-        nhathanhly.SoFax = tbSoFax.Text
-
-        Dim res = nhathanhlyBus.insert(nhathanhly)
-        If res.FlagResult = False Then
-            Dim mes = "Thêm nhà thanh lý lỗi!" + "\n" + res.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        MessageBox.Show("Thêm nhà thanh lý thành công!", "Thông báo", MessageBoxButtons.OK)
-        Reset()
+       
     End Sub
 End Class

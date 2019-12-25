@@ -73,7 +73,7 @@ Public Class splashScreen
     End Sub
 
     Private Sub btnDangNhap_Click(sender As Object, e As EventArgs) Handles btnDangNhap.Click
-        KiemTraDangNhap()
+        
     End Sub
 
     Private Sub tbMatKhau_MouseHover(sender As Object, e As EventArgs) Handles tbMatKhau.MouseHover

@@ -186,24 +186,11 @@ Public Class ucChoMuonSach
     End Sub
 
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
-        If dgDSCanMuon.Rows.Count = 0 Then
-            MessageBox.Show("Danh sách sách cần mượn trống!", "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        LuuPhieuMuon()
-        Back(sender)
+        
     End Sub
 
     Private Sub btnLuuVaxuat_Click(sender As Object, e As EventArgs) Handles btnLuuVaxuat.Click
-        If dgDSCanMuon.Rows.Count = 0 Then
-            MessageBox.Show("Danh sách sách cần mượn trống!", "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        LuuPhieuMuon()
-        XuatPhieuMuon()
-        Back(sender)
+       
     End Sub
 
     Private Sub LuuPhieuMuon()

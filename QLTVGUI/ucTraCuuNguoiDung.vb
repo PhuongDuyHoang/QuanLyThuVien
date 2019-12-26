@@ -39,31 +39,7 @@ Public Class ucTraCuuNguoiDung
     End Sub
 
     Private Sub btnTraCuu_Click(sender As Object, e As EventArgs) Handles btnTraCuu.Click
-        Me.Height = 530
-        dgDanhSach.Rows.Clear()
-        timkiem.Clear()
-
-        Dim manguoidung = "%" + tbMaNguoiDung.Text + "%"
-        Dim hoten = "%" + tbHoTen.Text + "%"
-        Dim diachi = "%" + tbDiaChi.Text + "%"
-        Dim tuoithapnhat = nudTuoiThapNhat.Value
-        Dim tuoicaonhat = nudTuoiCaoNhat.Value
-        Dim vaitro = "%" + cbVaiTro.SelectedValue.ToString
-        Dim ngaytaothapnhat = dtpNgayTaoThapNhat.Value
-        Dim ngaytaocaonhat = dtpNgayTaoCaoNhat.Value
-
-        Dim r = nguoidungBus.selectALL_ByFilters(manguoidung, hoten, diachi, tuoithapnhat, tuoicaonhat, vaitro, ngaytaothapnhat, ngaytaocaonhat, timkiem)
-
-        For i As Integer = 0 To timkiem.Count - 1
-            Dim ng = timkiem.ElementAt(i)
-
-            Dim ngVaiTro As New VaiTroDTO
-            vaitroBus.getByMaVaiTro(ng.VaiTro, ngVaiTro)
-
-            Dim s As String()
-            s = New String() {ng.MaNguoiDung, ng.HoTen, ng.DiaChi, ng.NgaySinh.ToString("dd/MM/yyyy"), ngVaiTro.TenVaiTro, ng.NgayTao.ToString("dd/MM/yyyy")}
-            dgDanhSach.Rows.Add(s)
-        Next
+       
     End Sub
 
     Private Sub dgDanhSach_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgDanhSach.CellContentClick

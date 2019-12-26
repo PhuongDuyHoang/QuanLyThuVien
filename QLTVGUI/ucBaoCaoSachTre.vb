@@ -13,37 +13,7 @@ Public Class ucBaoCaoSachTre
     Dim result As New Result
 
     Private Sub btnThongKe_Click(sender As Object, e As EventArgs) Handles btnThongKe.Click
-        dgThongKe.Rows.Clear()
-
-        Dim thamso As New ThamSoDTO
-        result = tsBus.selectALL(thamso)
-
-        If result.FlagResult = False Then
-            MessageBox.Show("Lỗi truy xuất dữ liệu. Lập thống kê thất bại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-            System.Console.WriteLine(result.SystemMessage)
-            dtpNgay.Focus()
-            Return
-        End If
-
-        Dim listten As New List(Of String)
-        Dim listngay As New List(Of DateTime)
-        thoigian = New DateTime(dtpNgay.Value.Year, dtpNgay.Value.Month, dtpNgay.Value.Day)
-
-        If thoigian > Today Or thoigian.Year < 2000 Then
-            MessageBox.Show("Thời gian không hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-            Return
-        End If
-
-        'result = DauSachBUS.selectSachTre(thoigian, thamso.HanMuonSach, listten, listngay)
-
-        If result.FlagResult = False Then
-            MessageBox.Show("Lỗi truy xuất dữ liệu. Lập thống kê thất bại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error)
-            System.Console.WriteLine(result.SystemMessage)
-            dtpNgay.Focus()
-            Return
-        End If
-
-        showresult(listten, listngay)
+       
 
     End Sub
 
@@ -70,18 +40,7 @@ Public Class ucBaoCaoSachTre
     End Sub
 
     Private Sub btnThoat_Click(sender As Object, e As EventArgs) Handles btnThoat.Click
-        Dim parent As ucBaoCaoSachTre
-        parent = sender.Parent
-        Dim grandpar = New ucBaoCao
-        grandpar = parent.Parent
-        Dim grgrpar = New FlowLayoutPanel
-        grgrpar = grandpar.Parent
-        grgrpar.Controls.Clear()
-        Dim grgrgrpar = New frmHome
-        grgrgrpar = grgrpar.Parent
-        grgrgrpar.btnNguoiDung.selected = False
-        Dim ucBaoCao As New ucBaoCao
-        grgrpar.Controls.Add(ucBaoCao)
+        
     End Sub
 
     Private Sub ucBaoCaoSachTre_Load(sender As Object, e As EventArgs) Handles MyBase.Load

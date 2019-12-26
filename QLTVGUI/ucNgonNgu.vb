@@ -59,24 +59,7 @@ Public Class ucNgonNgu
     End Sub
 
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
-        If tbTen.Text = "" Then
-            MessageBox.Show("Nhập tên ngôn ngữ!", "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        Dim ngonngu As New NgonNguDTO
-        ngonngu.MaNgonNgu = lbMaNgonNgu.Text
-        ngonngu.TenNgonNgu = tbTen.Text
-
-        Dim res = ngonnguBus.insert(ngonngu)
-        If res.FlagResult = False Then
-            Dim mes = "Thêm ngôn ngữ lỗi!" + "\n" + res.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        MessageBox.Show("Thêm ngôn ngữ thành công!", "Thông báo", MessageBoxButtons.OK)
-        Reset()
+       
     End Sub
 
     Private Sub dgDanhSach_CellEndEdit(sender As Object, e As DataGridViewCellEventArgs) Handles dgDanhSach.CellEndEdit

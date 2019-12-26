@@ -53,6 +53,6 @@ Public Class ucThuVien
     End Sub
 
     Private Sub Label4_Click(sender As Object, e As EventArgs) Handles Label4.Click
-        Process.Start("https://github.com/catrom/QuanLyThuVien")
+        Process.Start("https://github.com/PhuongDuyHoang/QuanLyThuVien")
     End Sub
 End Class

@@ -59,24 +59,7 @@ Public Class ucTacGia
     End Sub
 
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
-        If tbTen.Text = "" Then
-            MessageBox.Show("Nhập tên tác giả!", "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        Dim tacgia As New TacGiaDTO
-        tacgia.MaTacGia = lbMaTacGia.Text
-        tacgia.TenTacGia = tbTen.Text
-
-        Dim res = tacgiaBus.insert(tacgia)
-        If res.FlagResult = False Then
-            Dim mes = "Thêm tác giả lỗi!" + "\n" + res.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Return
-        End If
-
-        MessageBox.Show("Thêm tác giả thành công!", "Thông báo", MessageBoxButtons.OK)
-        Reset()
+        
     End Sub
 
     Private Sub dgDanhSach_CellEndEdit(sender As Object, e As DataGridViewCellEventArgs) Handles dgDanhSach.CellEndEdit

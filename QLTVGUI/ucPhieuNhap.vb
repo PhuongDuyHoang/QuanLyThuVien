@@ -86,13 +86,6 @@ Public Class ucPhieuNhap
     End Sub
 
     Private Sub btnThemDauSach_Click(sender As Object, e As EventArgs) Handles btnThemDauSach.Click
-        'Me.Controls.Clear()
-        Dim tiepnhansach As New ucTiepNhanSachMoi With {
-            .maphieunhap = lbMaPhieuNhap.Text,
-            .nhacungcap = cbNhaCungCap.SelectedValue.ToString,
-            .nguoinhap = lbNguoiNhap.Text
-        }
-        Me.Controls.Add(tiepnhansach)
-        tiepnhansach.BringToFront()
+        
     End Sub
 End Class

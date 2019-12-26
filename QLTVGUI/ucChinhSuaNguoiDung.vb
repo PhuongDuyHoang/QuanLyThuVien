@@ -68,52 +68,7 @@ Public Class ucChinhSuaNguoiDung
     End Sub
 
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
-        Dim res
-        Dim userLogin As New DangNhapDTO
-
-        'Map data
-        nguoidung.DiaChi = tbDiaChi.Text
-        nguoidung.Email = tbEmail.Text
-        nguoidung.SoDienThoai = tbSoDienThoai.Text
-        nguoidung.VaiTro = cbVaiTro.SelectedValue.ToString
-
-        If gbDangNhap.Height = 373 Then
-            If tbMatKhau.Text = "" Or tbMatKhauMoi.Text = "" Or tbNhapLaiMatKhauMoi.Text = "" Then
-                MessageBox.Show("Nhập đầy đủ các trường bắt buộc!", "Lỗi", MessageBoxButtons.OK)
-                Return
-            End If
-            If tbMatKhauMoi.Text <> tbNhapLaiMatKhauMoi.Text Then
-                MessageBox.Show("Nhập lại mật khẩu không khớp!", "Lỗi", MessageBoxButtons.OK)
-                Return
-            End If
-            If tbTenDangNhap.Text <> dangnhap.TenDangNhap And tbMatKhau.Text <> dangnhap.MatKhau Then
-                MessageBox.Show("Tên đăng nhập hoặc mật khẩu không đúng!", "Lỗi", MessageBoxButtons.OK)
-                Return
-            End If
-
-            dangnhap.MatKhau = tbMatKhauMoi.Text
-        End If
-
-        dangnhap.TenDangNhap = tbTenDangNhap.Text
-
-        res = dangnhapBus.update(dangnhap)
-        If res.FlagResult = False Then
-            Dim mes = "Cập nhật tài khoản đăng nhập thất bại!" + "\n" + res.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Back(sender)
-            Return
-        End If
-
-        res = nguoidungBus.update(nguoidung)
-        If res.FlagResult = False Then
-            Dim mes = "Cập nhật người dùng thất bại!" + "\n" + res.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Back(sender)
-            Return
-        End If
-
-        MessageBox.Show("Cập nhật thành công!" + res.SystemMessage, "Thông tin", MessageBoxButtons.OK)
-        Back(sender)
+       
     End Sub
 
     Private Sub lbDoiMatKhau_Click(sender As Object, e As EventArgs) Handles lbDoiMatKhau.Click

@@ -35,41 +35,7 @@ Public Class ucThemNguoiDung
     End Sub
 
     Private Sub btnLuu_Click(sender As Object, e As EventArgs) Handles btnLuu.Click
-        Dim nguoidung As New NguoiDungDTO
-        nguoidung.MaNguoiDung = lbMaNguoiDung.Text
-        nguoidung.HoTen = tbHoTen.Text
-        nguoidung.CMND = tbCMND.Text
-        nguoidung.GioiTinh = cbGioiTinh.SelectedIndex
-        nguoidung.NgaySinh = dtpNgaySinh.Value
-        nguoidung.DiaChi = tbDiaChi.Text
-        nguoidung.Email = tbEmail.Text
-        nguoidung.SoDienThoai = tbSoDienThoai.Text
-        nguoidung.VaiTro = cbVaiTro.SelectedValue.ToString()
-        nguoidung.NgayTao = Today
-
-        Dim res = nguoidungBus.insert(nguoidung)
-        If res.FlagResult = False Then
-            Dim mes = "Lưu người dùng thất bại!" + res.SystemMessage
-            MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-        Else
-            If nguoidung.HoTen = "" Or nguoidung.CMND = "" Or nguoidung.DiaChi = "" Or nguoidung.Email = "" Or nguoidung.SoDienThoai = "" Then
-
-                Dim mes = "Lưu người dùng thất bại!"
-                MessageBox.Show(mes, "Lỗi", MessageBoxButtons.OK)
-            Else
-
-                MessageBox.Show("Lưu người dùng thành công!", "Thông tin", MessageBoxButtons.OK)
-                TaoTaiKhoanDangNhap()
-            End If
-
-        End If
-
-        If isLapTheDocGia = False Then
-            Back(sender)
-            Return
-        End If
-
-        Back2(sender)
+       
     End Sub
 
     Private Sub TaoTaiKhoanDangNhap()
@@ -99,12 +65,7 @@ Public Class ucThemNguoiDung
     End Sub
 
     Private Sub btnThoat_Click(sender As Object, e As EventArgs) Handles btnThoat.Click
-        If isLapTheDocGia = False Then
-            Back(sender)
-            Return
-        End If
-
-        Back2(sender)
+        
     End Sub
 
     Private Sub Back(sender As Object)
